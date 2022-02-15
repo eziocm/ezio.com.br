@@ -21,6 +21,7 @@
 .yarn/
 *-lock.json
 *.lock
+/src/**/__snapshots__/
 
 # debug
 npm-debug.log*
